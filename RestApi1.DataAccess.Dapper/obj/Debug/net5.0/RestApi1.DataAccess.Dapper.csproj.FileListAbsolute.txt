@@ -1,0 +1,15 @@
+C:\Users\Ct-04\source\repos\RestApi1\RestApi1.DataAccess.Dapper\bin\Debug\net5.0\RestApi1.DataAccess.Dapper.deps.json
+C:\Users\Ct-04\source\repos\RestApi1\RestApi1.DataAccess.Dapper\bin\Debug\net5.0\RestApi1.DataAccess.Dapper.dll
+C:\Users\Ct-04\source\repos\RestApi1\RestApi1.DataAccess.Dapper\bin\Debug\net5.0\ref\RestApi1.DataAccess.Dapper.dll
+C:\Users\Ct-04\source\repos\RestApi1\RestApi1.DataAccess.Dapper\bin\Debug\net5.0\RestApi1.DataAccess.Dapper.pdb
+C:\Users\Ct-04\source\repos\RestApi1\RestApi1.DataAccess.Dapper\bin\Debug\net5.0\RestApi1.Domain.dll
+C:\Users\Ct-04\source\repos\RestApi1\RestApi1.DataAccess.Dapper\bin\Debug\net5.0\RestApi1.Domain.pdb
+C:\Users\Ct-04\source\repos\RestApi1\RestApi1.DataAccess.Dapper\obj\Debug\net5.0\RestApi1.DataAccess.Dapper.csproj.AssemblyReference.cache
+C:\Users\Ct-04\source\repos\RestApi1\RestApi1.DataAccess.Dapper\obj\Debug\net5.0\RestApi1.DataAccess.Dapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ct-04\source\repos\RestApi1\RestApi1.DataAccess.Dapper\obj\Debug\net5.0\RestApi1.DataAccess.Dapper.AssemblyInfoInputs.cache
+C:\Users\Ct-04\source\repos\RestApi1\RestApi1.DataAccess.Dapper\obj\Debug\net5.0\RestApi1.DataAccess.Dapper.AssemblyInfo.cs
+C:\Users\Ct-04\source\repos\RestApi1\RestApi1.DataAccess.Dapper\obj\Debug\net5.0\RestApi1.DataAccess.Dapper.csproj.CoreCompileInputs.cache
+C:\Users\Ct-04\source\repos\RestApi1\RestApi1.DataAccess.Dapper\obj\Debug\net5.0\RestApi1.DataAccess.Dapper.csproj.CopyComplete
+C:\Users\Ct-04\source\repos\RestApi1\RestApi1.DataAccess.Dapper\obj\Debug\net5.0\RestApi1.DataAccess.Dapper.dll
+C:\Users\Ct-04\source\repos\RestApi1\RestApi1.DataAccess.Dapper\obj\Debug\net5.0\ref\RestApi1.DataAccess.Dapper.dll
+C:\Users\Ct-04\source\repos\RestApi1\RestApi1.DataAccess.Dapper\obj\Debug\net5.0\RestApi1.DataAccess.Dapper.pdb

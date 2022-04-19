@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="IOrderService.cs" />
+    <Compile Remove="OrderService.cs" />
+	  <PackageReference Include="Microsoft.AspNet.Mvc" Version="5.2.7" />
+	  <PackageReference Include="Microsoft.AspNetCore.Authentication" Version="2.2.0" />
+	  <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="3.1.19" />
+	  <PackageReference Include="Swashbuckle.AspNetCore.SwaggerGen" Version="6.2.2" />
+	  <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUI" Version="6.2.2" />
+	  <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.12.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\RestApi1.DataAccess.Dapper\RestApi1.DataAccess.Dapper.csproj" />
+    <ProjectReference Include="..\RestApi1.Domain\RestApi1.Domain.csproj" />
+  </ItemGroup>
+
+</Project>
